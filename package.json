@@ -1,0 +1,15 @@
+{
+  "name": "electron-test",
+  "version": "0.0.1",
+  "description": "Test app for electron 17",
+  "main": "main.js",
+  "scripts": {
+    "test": "start",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  }
+}
